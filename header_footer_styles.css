@@ -82,6 +82,7 @@ a {
     display: flex;
     flex: 1;
     justify-content: space-around;
+    padding-bottom: 96px;
 }
 
 
