@@ -29,7 +29,9 @@ body {
 
 .top {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding-left: 15vw;
+    padding-right: 15vw;
 }
 
 .right-header, .secondary-text {
@@ -81,7 +83,9 @@ a {
 .hero-container {
     display: flex;
     flex: 1;
-    justify-content: space-around;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    justify-content: space-between;
     padding-bottom: 96px;
 }
 
